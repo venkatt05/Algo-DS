@@ -1,0 +1,16 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "r".(›§¡üøÿÿÿÿ8êÅÔ‹Ë/
+S
+java:S1197"8Move the array designator from the variable to the type.(Ê»ëıÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(Ê»ëıÿÿÿÿ
+H
+java:S1481"&Remove this unused "l" local variable.(ı¼œ°ùÿÿÿÿ8ìÅÔ‹Ë/
+H
+java:S1481"&Remove this unused "r" local variable.(›§¡üøÿÿÿÿ8ìÅÔ‹Ë/
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ä°Ã
+Z
+java:S1197("8Move the array designator from the variable to the type.(üğô¨øÿÿÿÿ8ñÅÔ‹Ë/
+U
+java:S1197)"8Move the array designator from the variable to the type.(ŒÑ«…8ñÅÔ‹Ë/

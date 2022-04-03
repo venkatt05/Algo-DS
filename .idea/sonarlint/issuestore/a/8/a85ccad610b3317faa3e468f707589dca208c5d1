@@ -1,0 +1,12 @@
+
+g
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ñÖµp
+S
+java:S1197"8Move the array designator from the variable to the type.(Ù…ê¼ÿÿÿÿÿ
+M
+java:S1197"8Move the array designator from the variable to the type.(ÿ•Ü.
+M	java:S1066"9Replace this use of System.out or System.err by a logger.(ØÉ¾c
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

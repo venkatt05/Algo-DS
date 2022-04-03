@@ -1,0 +1,18 @@
+
+N
+java:S1197"8Move the array designator from the variable to the type.(´•óĞ
+S
+java:S1197"8Move the array designator from the variable to the type.(Ô¼é²øÿÿÿÿ
+N
+java:S1197/"8Move the array designator from the variable to the type.(—ğÏÃ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(çÒà
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+java:S18548"5Remove this useless assignment to local variable "n".(Ù€¤£ıÿÿÿÿ
+S
+java:S11976"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+S
+java:S11977"8Move the array designator from the variable to the type.(™İ‘Ïùÿÿÿÿ
+A
+java:S14818"&Remove this unused "n" local variable.(Ù€¤£ıÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(§‘é
